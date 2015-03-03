@@ -30,6 +30,7 @@ new GoogleTest().sendSSLMessage(sendTo, emailSubjectTxt,emailMsgTxt, emailFromAd
 System.out.println("Sucessfully Sent mail to All Users");
 }*/
 
+//some new docs
     public static void main(String ... args){
         try{
         //Security.addProvider(new Provider());
